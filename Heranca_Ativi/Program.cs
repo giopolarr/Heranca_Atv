@@ -26,31 +26,35 @@ namespace Heranca_Ativi
                 {
                     if (tipoConta == 1)
                     {
+                        Estudante estudante = new Estudante(100, "01010101", "Ifro", 1010101, "01010", "Giovanna", 150);
                         Console.WriteLine("Para sacar digite: 3 \n Para depositar digite: 4");
                         int escolha = Convert.ToInt32(Console.ReadLine());
                         if (escolha == 3)
                         {
                             Console.WriteLine("Digite o valor do saque: ");
                             double valorSaquee = Convert.ToDouble(Console.ReadLine());
-                            conta.Sacar(valorSaquee);
+                            estudante.Sacar(valorSaquee);
                         }
                         else { Console.WriteLine("Erro"); }
                     }
                     if(tipoConta == 2)
                     {
+                        Empresarial b = new Empresarial(1000, 500, 0, 100, "10101", "Giovanna", 1000);
+
                         Console.WriteLine("Para sacar digite: 1 \n Para fazer emprestimo digite:2");
                         int escolha = Convert.ToInt32((Console.ReadLine()));
                         if (escolha == 1)
                         {
                             Console.WriteLine("Digite o valor do saque: ");
                             double valorSaquee = Convert.ToDouble(Console.ReadLine());
-                            
+                            b.Sacar(valorSaquee);
+
                         } else { Console.WriteLine("erro"); }
                         if(escolha == 2)
                         {
                             Console.WriteLine("Digite o valor do Emprestimo ");
                             double valorEmprestimo = Convert.ToDouble(Console.ReadLine());
-
+                            b.Emprestimo(valorEmprestimo);
                         }
                     }
                     if(tipoConta == 3)
