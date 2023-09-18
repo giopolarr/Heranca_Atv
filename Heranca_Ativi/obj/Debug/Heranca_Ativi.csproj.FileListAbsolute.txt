@@ -1,0 +1,8 @@
+C:\Users\Giovanna Siminaione\source\repos\Heranca_Ativi\Heranca_Ativi\bin\Debug\Heranca_Ativi.exe.config
+C:\Users\Giovanna Siminaione\source\repos\Heranca_Ativi\Heranca_Ativi\bin\Debug\Heranca_Ativi.exe
+C:\Users\Giovanna Siminaione\source\repos\Heranca_Ativi\Heranca_Ativi\bin\Debug\Heranca_Ativi.pdb
+C:\Users\Giovanna Siminaione\source\repos\Heranca_Ativi\Heranca_Ativi\obj\Debug\Heranca_Ativi.csproj.AssemblyReference.cache
+C:\Users\Giovanna Siminaione\source\repos\Heranca_Ativi\Heranca_Ativi\obj\Debug\Heranca_Ativi.csproj.SuggestedBindingRedirects.cache
+C:\Users\Giovanna Siminaione\source\repos\Heranca_Ativi\Heranca_Ativi\obj\Debug\Heranca_Ativi.csproj.CoreCompileInputs.cache
+C:\Users\Giovanna Siminaione\source\repos\Heranca_Ativi\Heranca_Ativi\obj\Debug\Heranca_Ativi.exe
+C:\Users\Giovanna Siminaione\source\repos\Heranca_Ativi\Heranca_Ativi\obj\Debug\Heranca_Ativi.pdb
